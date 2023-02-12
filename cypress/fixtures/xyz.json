@@ -1,0 +1,17 @@
+{
+  "homepageUrl": "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+  "customer":{
+    "firstName": "test",
+    "lastName": "tester",
+    "postCode": "123"
+},
+  "transactions": {
+    "amount": "50",
+    "depositSuccess": "Deposit Successful",
+    "withdrawSuccess": "Transaction successful"
+  },
+  "openAccount": {
+    "customer_name": "test tester",
+    "AccCurrency": "Dollar"
+  }
+}
